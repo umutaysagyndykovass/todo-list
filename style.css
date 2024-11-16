@@ -1,0 +1,24 @@
+.todo-container{
+     background-color: darkblue;
+     font-size: 68px;
+     font-style: normal;
+     list-style: 50px;
+}
+
+#todoList{
+    list-style-type: none;
+}
+
+#todoList li{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.todo-container{
+    background-color: rgba(120, 112, 99, 0.951);
+    font-size: 56px;
+}
+
+
+
+
